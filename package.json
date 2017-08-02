@@ -24,7 +24,8 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "lodash": "^4.6.1"
+    "lodash": "^4.6.1",
+    "naughty-words": "^1.0.2"
   },
   "licenses": [
     {
